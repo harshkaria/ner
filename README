@@ -1,0 +1,5 @@
+To run, run the following:
+```
+pip3 install -r requirements.txt
+python3 nference.py 
+```
